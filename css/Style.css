@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+}
+
+label{
+    font-size: large;
+    margin-left: 10px;
+
+}
+
+input{
+    margin-left: 10px;
+}
+
+#bottone{
+    margin-top: 5px;
+}
